@@ -3,9 +3,9 @@ class Employee:
         self.name = name
         self.salary = salary
 
-e1 = Employee("Vera", 2000)
-e2 = Employee("Chuck", 1800)
-e3 = Employee("Dave", 1900)
+e1 = Employee("labib", 2000)
+e2 = Employee("shohag", 1800)
+e3 = Employee("keila", 1900)
 
 print(e1)
 print(e2)
